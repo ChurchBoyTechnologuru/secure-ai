@@ -30,7 +30,7 @@ const NavBar = () => (
         transition={{ duration: 0.5 }}
         className="text-2xl font-bold text-green-400"
       >
-        SafeGuard
+        Secure-Eazyl-AI
       </motion.div>
       <motion.div
         initial={{ opacity: 0, x: 20 }}
@@ -198,7 +198,7 @@ export function SafeGuardLandingComponent() {
         </section>
 
         <section id="how-it-works" className="mb-20">
-          <h2 className="text-4xl font-bold mb-10 text-center text-green-400">How SafeGuard Works</h2>
+          <h2 className="text-4xl font-bold mb-10 text-center text-green-400">How Secure-Eazyl-AI Works</h2>
           <div className="max-w-2xl mx-auto space-y-8">
             <HowItWorksStep
               number={1}
